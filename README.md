@@ -1,2 +1,1 @@
-# V14-register
-v14 Full MongoDB Setuplu Regiser Bot
+Bitmesine Az Kaldı Full MongoDB Ayarlıyorum Tek Register Olan Halini Atıcam Geliştirmesi İse Size Kalmış
